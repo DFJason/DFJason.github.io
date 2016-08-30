@@ -6,7 +6,7 @@ header-img: "img/plane.jpg"
 ---
 
 <center>
-    <p><img src=" DFJason.github.io/img/Zero.png " align="center"></p>
+    <p><img src=" file:///C:/Users/Jason/Desktop/GitHub/DFJason.github.io/img/Zero.png" align="center"></p>
 </center>
 
 Ehhhh...I know it's not a good question.
