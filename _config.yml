@@ -32,6 +32,7 @@ kramdown:
   input: GFM
 highlighter: rouge
 
+
 gems: 
 - jekyll-gallery-generator
 - jekyll-paginate
