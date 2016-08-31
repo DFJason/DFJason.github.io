@@ -7,7 +7,7 @@ header-img: "img/plane.jpg"
 
 <center>
     <p>
-    <img src="https://dfjason.github.io/img/Zero.png" align="center" style="width:160px;"></img>
+    <img src="https://dfjason.github.io/img/Zero.png" align="center" style="width:160px;">
     </p>
 </center>
 
