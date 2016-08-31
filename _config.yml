@@ -15,7 +15,7 @@ owner:
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon1.ico
+favicon: img/favicon.ico
 
 #douban_username: Azeril
 #twitter_username: Azeril_Lapland  
@@ -62,9 +62,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : Azeril
+    short_name : Jason
   disqus :
-      short_name : Azeril
+      short_name : Jason
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-66863061-1
