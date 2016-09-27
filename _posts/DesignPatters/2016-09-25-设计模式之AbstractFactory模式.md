@@ -1,6 +1,6 @@
 ---
 layou: post
-title: 设计模式之Factory模式
+title: 设计模式之AbstractFactory模式
 categories:[blog]
 tags:[DesignPatterns]
 description:学习笔记
