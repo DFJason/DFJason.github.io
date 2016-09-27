@@ -1,9 +1,9 @@
 ---
-layou: post
+layout: post
 title: 设计模式之AbstractFactory模式
-categories:[blog]
-tags:[DesignPatterns]
-description:学习笔记
+categories: [blog ]
+tags: [DesignPatterns ]
+description: 学习笔记
 
 ---
 
@@ -11,7 +11,7 @@ description:学习笔记
 需要创建**一组**相关或者相互依赖的对象
 
 ### 典型模式结构图
-[AbstractFactory](https://cnlg.github.io/images/DesignPatters/AbstractFactory/AFactory.png)
+![AbstractFactory](https://cnlg.github.io/images/DesignPatters/AbstractFactory/AFactory.png)
 
 
 ### 演示代码
@@ -271,7 +271,7 @@ int main()
 
 
 #### 运行效果
-[AbstractFactory](https://cnlg.github.io/images/DesignPatters/AbstractFactory/yunxing.png)
+![AbstractFactory](https://cnlg.github.io/images/DesignPatters/AbstractFactory/yunxing.png)
 
 
 #### 代码说明
