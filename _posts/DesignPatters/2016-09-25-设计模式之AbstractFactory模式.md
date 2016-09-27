@@ -4,6 +4,7 @@ title: 设计模式之AbstractFactory模式
 categories:[blog]
 tags:[DesignPatterns]
 description:学习笔记
+
 ---
 
 ### AbstractFactory模式解决的问题
